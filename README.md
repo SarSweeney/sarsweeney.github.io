@@ -38,9 +38,6 @@ I am a Production Manager and MBA candidate specializing in **Predictive Data An
 
 ## 📫 Let's Connect
 <p align="left">
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-25292e?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-</p>
+<a href="mailto:sar.c.sweeney@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sarsweeney"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarsweeney&show_icons=true&theme=radical)
